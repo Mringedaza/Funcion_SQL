@@ -1,0 +1,6 @@
+CREATE TABLE Recomendaciones (
+id_recomendaciones INT PRIMARY KEY AUTO_INCREMENT,
+nombre_lugar VARCHAR(40),
+calificacion_lugar INT,
+id_usuario INT
+);
