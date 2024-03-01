@@ -1,4 +1,3 @@
-# Funcion_SQL
 DELIMITER $$
 CREATE FUNCTION puntuarlugar(nombrec VARCHAR(40), calif INT, usuce INT)
 RETURNS VARCHAR(100)
